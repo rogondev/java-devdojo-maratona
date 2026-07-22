@@ -1,11 +1,11 @@
-# Aula XX - [Nome do Assunto]
+# Aula 50 - Métodos - Parâmetro Tipo Referência
 
 ## 📝 O Conceito Central
 *Explicação curta e direta, com as suas palavras, sobre o que é o conceito principal abordado na aula.*
 
 ---
 
-## 🧠 Como Funciona por Trás dos Panos?
+## 🧠 Como Funciona?
 *Use este espaço para descrever o comportamento da memória (Stack e Heap), fluxos de dados ou regras da JVM que você aprendeu.*
 - **O que acontece na Stack:**
 - **O que acontece na Heap:**
